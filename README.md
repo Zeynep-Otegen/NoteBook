@@ -3,7 +3,7 @@ Basit bir not defteri uygulamasıdır. Bu uygulama, kullanıcıların kolayca no
 
 Zip dosyasındaki sadece Notebook yazan uygulamaya tıklayın.
 
-İndir:
+İndir:https://github.com/Zeynep-Otegen/NoteBook/releases/tag/note
 
 # Özellikler
 Not Ekleme: Yeni notlar oluşturma imkanı.
