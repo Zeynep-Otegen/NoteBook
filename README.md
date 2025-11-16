@@ -1,6 +1,10 @@
 # NoteBook APP
 Basit bir not defteri uygulamasıdır. Bu uygulama, kullanıcıların kolayca not eklemesini, kaydetmesini ve silmesini sağlar.
+
+Zip dosyasındaki sadece Notebook yazan uygulamaya tıklayın.
+
 İndir:
+
 # Özellikler
 Not Ekleme: Yeni notlar oluşturma imkanı.
 
